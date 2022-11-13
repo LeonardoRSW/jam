@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/imageView8"
+        android:layout_width="265dp"
+        android:layout_height="78dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="63dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="132dp"
+        app:srcCompat="@drawable/angka" />
+
+    <ImageView
+        android:id="@+id/imageView10"
+        android:layout_width="231dp"
+        android:layout_height="233dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="77dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="280dp"
+        app:srcCompat="@drawable/group_4" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="61dp"
+        android:layout_height="61dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="165dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="590dp"
+        app:srcCompat="@drawable/add_alarm" />
+
+    <ImageView
+        android:id="@+id/imageView9"
+        android:layout_width="match_parent"
+        android:layout_height="354dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="0dp"
+        android:layout_marginTop="392dp"
+        app:srcCompat="@drawable/slide_menu_timer" />
+</RelativeLayout>
